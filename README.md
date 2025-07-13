@@ -1,6 +1,6 @@
 # EN
 
-# Cookie Extractor - Browser Cookie Extraction Tool
+# Cookie Extractor - Browser Cookie Extraction Tool cooldeep
 
 ![Cookie Extractor Banner](https://img.shields.io/badge/Project-Cookie%20Extractor-blueviolet)
 ![Language](https://img.shields.io/badge/Language-Python-blue)
